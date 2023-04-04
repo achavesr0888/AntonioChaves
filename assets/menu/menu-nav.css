@@ -1,0 +1,33 @@
+.menu__list, .menu-nav{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 2rem;
+}
+ .menu__list__item a{
+    color: var(--color-quinto);
+
+}
+.menu__list__item:hover, .menu__list__item__contacto{
+    color: var(--color-quinto) ;
+}
+.menu__list__item__contacto{
+    display: none;
+}
+@media (max-width: 768px){
+    .media__list__iteam{
+        display: :none;
+    }
+    .menu__list__item__contacto{
+    display: block;
+    font-weight: bold;
+    }
+}
+@media (max-width:425px) {
+    .menu__list__item__contacto{
+        font-weight: 500;
+    }
+}
+
+
+

@@ -1,0 +1,28 @@
+.skills__line{
+    display: flex;
+    justify-content: space-between;
+}
+.skills__box{
+    height: 9rem;
+    height: 8rem;
+    background-color: white;
+    padding: 1rem;
+}
+.skills__box ul { 
+    position:;
+    bottom: 1rem;
+}
+.skills__name{
+    font-weight: bold;
+}
+@media (max-width:768px){
+    .skills__line {
+    justify-content:
+        center;
+    }
+}
+    .skills__box {
+        width: 25%;
+        height: 7rem;
+        margin: 1rem;
+    }

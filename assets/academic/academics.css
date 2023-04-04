@@ -1,0 +1,16 @@
+.academics{
+    padding: 3rem;
+background-color: var(--color-cuart);
+display: flex;
+flex-direction: column;
+align-items: center;
+justify-content: center;
+font-size: 2rem;
+}
+.academics__title{
+    display: flex;
+align-items: center;
+justify-content: center;;
+font: size 2rem ;
+margin-bottom: 2rem;
+}

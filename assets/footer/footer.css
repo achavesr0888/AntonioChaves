@@ -1,0 +1,12 @@
+.footer{
+    padding: 1rem;
+background-color: var(--color-primario);
+display: flex;
+flex-direction: column;
+align-items: center;
+justify-content: center;
+}
+.footer__title{
+font: size 1rem ;
+margin-bottom: 1rem;
+}

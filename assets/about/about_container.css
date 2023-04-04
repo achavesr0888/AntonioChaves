@@ -1,0 +1,28 @@
+.abaut__container{
+    width: 60%;
+    display:flex ;
+    flex-direction: column;
+    gap: 2rem;
+
+}
+.abaut__container img{
+    width: 11rem;
+}
+.about__title{
+    font-size: 2rem;
+    color: var(--color-cuart);
+}
+.about__paragraph{
+    font: 1.4;
+    color: var(--color-cuart);
+}
+@media (max-width:768){
+    .abaut__container
+    width: 100%;
+    .about__title{
+        font-size: 9rem;
+    }
+    .abaut__container{
+        font-size: 9rem;
+    
+}

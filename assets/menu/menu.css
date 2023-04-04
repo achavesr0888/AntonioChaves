@@ -1,0 +1,6 @@
+.menu{
+    display: flex;
+    background-color: var(--color-cuart);
+    justify-content: space-between ;
+    padding: .5rem 01rem;
+}

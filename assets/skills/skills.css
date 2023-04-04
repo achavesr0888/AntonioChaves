@@ -1,0 +1,14 @@
+.skills{
+        padding: 3rem;
+    background-color: var(--color-cuart);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: 2rem;
+}
+.skills__title{
+    font: size 2rem ;
+margin-bottom: 2rem;
+}
+

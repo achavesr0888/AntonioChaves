@@ -1,0 +1,26 @@
+.experiencie__box{
+    display: flex;
+    align-items: center;
+    gap: 1 rem;
+}
+.experiencie__img{
+    width:70%
+}
+.experiencie__text{
+    font-weight: normal;
+    font-size: 1rem;
+
+}
+.experiencia__boton--repo{
+    padding: .8rem;
+    background-color: blueviolet;
+    color: var(--colo-secund)
+    border: 1px solid var(-color-sec);
+}
+.experience__botao--demo{
+    padding: 8rem;
+    color:var(--color-terc);
+    background-color: #eef5ee;
+    border: 1 px solid var(--color-terc)
+    cursor:pointer
+}

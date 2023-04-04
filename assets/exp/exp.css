@@ -1,0 +1,13 @@
+.experience {
+    padding: 2 rem;
+    background: var(--color-cuarto);
+    display flex;
+    flex-direction: column;
+    align-items: ;
+}
+
+.experience__section__title{
+    font-size: 2rem;
+    margin-bottom: 2rem;
+    color:var(--color-quinto)
+}
